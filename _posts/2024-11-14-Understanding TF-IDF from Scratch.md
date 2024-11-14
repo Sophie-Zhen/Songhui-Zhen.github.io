@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Understanding TF-IDF from Scratch"
+layout: posts
+title: "TF-IDF-from-Scratch"
 date: 2024-11-14
 categories: posts
 ---
