@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: "TF-IDF-from-Scratch"
 date: 2024-11-14
 categories: posts
