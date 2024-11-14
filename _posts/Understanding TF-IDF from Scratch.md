@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Understanding TF-IDF from Scratch"
+date: 2024-11-14
+categories: posts
+---
+
 # Understanding TF-IDF from Scratch
 _Sophie Zhen_ 14 Nov, 2024
 
