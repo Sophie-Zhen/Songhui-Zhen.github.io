@@ -1,21 +1,3 @@
-title: My NLP Learning Journey
-description: Documenting my progress in Natural Language Processing
+title: Restart - Journey of Computer Science
+description: Documenting my footprints in Natural Language Processing, Machine Learning, SDE, and other CS domains.
 theme: jekyll-theme-minimal
-
-baseurl: "" # leave blank for a project hosted on username.github.io
-url: "https://sophie-zhen.github.io" 
-
-# Set up defaults for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Configuration for pagination (if supported by the theme)
-paginate: 5 # Number of posts per page
-paginate_path: "/page:num/"
-
-# Enabling future-dated posts (optional, based on your preference)
-future: true
