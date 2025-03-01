@@ -5,5 +5,8 @@ theme: minima
 navigation:
   - title: "Home"
     url: /
+  - title: "Blog"
+    url: /blog/
   - title: "Notes"
     url: /notes/
+
