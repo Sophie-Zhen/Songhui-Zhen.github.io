@@ -10,3 +10,6 @@ navigation:
   - title: "Notes"
     url: /notes/
 
+collections:
+  notes:
+    output: true
