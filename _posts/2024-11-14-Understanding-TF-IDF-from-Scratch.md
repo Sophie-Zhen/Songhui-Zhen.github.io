@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: "TF-IDF-from-Scratch"
 date: 2024-11-14 23:00:00 -0000
 ---
